@@ -11,7 +11,7 @@ const Home: React.FC = () => (
 
                 <div className="flex justify-center mb-5">
                     <a
-                        href="https://github.com/tu-usuario" // Cambia "tu-usuario" por tu nombre de usuario de GitHub
+                        href="https://github.com/daniel911127/ConcesionarioFront" 
                         target="_blank"
                         rel="noopener noreferrer"
                         className="text-gray-500 hover:underline"
@@ -21,7 +21,7 @@ const Home: React.FC = () => (
                 </div>
                 <div className="flex justify-center">
                     <a
-                        href="https://github.com/tu-usuario" // Cambia "tu-usuario" por tu nombre de usuario de GitHub
+                        href="https://github.com/daniel911127/ConcesionarioBack" 
                         target="_blank"
                         rel="noopener noreferrer"
                         className="text-gray-500 hover:underline"
